@@ -26,14 +26,6 @@ function App() {
      ) })
   setTodoarr(pro)
   }
-  // const clickDEl = (itemToDelete) => {
-  //   const updatedTodoArr = Todoarr.filter((item) => {
-  //     return item.key !== itemToDelete.key;
-  //   });
-  
-  //   setTodoarr(updatedTodoArr);
-  // };
-  // console.log(Todoarr)
   return (
     <section className="main">
 
